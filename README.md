@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/amiguelmoreno/Simon-Game">
-    <img src="img/favicon.gif" alt="Logo" width="180">
+    <img src="favicon.gif" alt="Logo" width="180">
   </a>
   <br />
   <br />
