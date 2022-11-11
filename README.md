@@ -38,24 +38,17 @@
 ## About The Project
 
 The main goal of this project is to learn:
+ * Basics of **localStorage** property
  * How to manage DOM events
  * About AddEventListener JS Method
- * Take values from inputs, use them to do operations and give back the correct information.
 <br />
 
 ### How does it work?
 
-* The app shows the current operation that your are doing and also the previous one
-* It shows up to 3 decimal numbers
-* Where you want to add some decimal number press the '.' button
-<br />
- There are two ways to use the calculator:
-
-   * By clicking the buttons on the screen
-   * By pressing the keypad buttons of your keyboard
-  
-     * "Backspace" button to delete one number each time it is pressed
-     * "Delete" button to delete all
+* Press the START button to play
+* The game generate a random secuence and the user have to repeat the secuence of colors that light up
+* This secence increases by 1 on each round that the user get the secuence correct. If the user fails, the secence is restarted to 1
+* User can see the highscore and current score are displayed on the screen.
 <br />
 
 ### What did I used to get the best of this project?
@@ -71,20 +64,14 @@ The main goal of this project is to learn:
   
   * <img src="https://img.shields.io/badge/-CSS3-blue" alt="Logo"> features:
     * Flexbox 
-    * Grid
-    * Variables
     * Pseudo-elements
     * Pseudo-classes
 
   * <img src="https://img.shields.io/badge/-JS-yellow" alt="Logo"> most used features:
-    * ES6 Classes,
-    * toString()
-    * slice()
-    * includes()
-    * isNaN()
-    * toFixed()
-    * split()
-    * toLocaleString()
+    * Math.random()
+    * Math.floor()
+    * setTimeout()
+    * indexOf()
     * querySelector(), querySelectorAll()
     * forEach()
     * addEventListener()
@@ -94,9 +81,9 @@ The main goal of this project is to learn:
 
 Some features I would like to add are:
 
- * add √ and x² funcitonality
- * add brackets operations => ()
- * history of all the operations
+ * add difficulty levels, where the speed is increased
+ * add lives for the user
+ * improve buttons animations and sounds
 <br />
 
 <!-- CONTRIBUTING -->
@@ -120,7 +107,7 @@ Don't forget to give the project a star! Thanks again!
 
 [![LinkedIn][linkedin-shield]][linkedin-url] 
 
-Project Link: https://github.com/amiguelmoreno/IOS-Calculator
+Project Link: https://github.com/amiguelmoreno/Simon-Game
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
