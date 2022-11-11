@@ -1,18 +1,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/amiguelmoreno/IOS-Calculator">
-    <img src="img/favicon.webp" alt="Logo" width="180">
+  <a href="https://github.com/amiguelmoreno/Simon-Game">
+    <img src="img/favicon.gif" alt="Logo" width="180">
   </a>
   <br />
   <br />
-  <h1>IOS Calculator</h1>
+  <h1>Simon Game</h1>
   <br />
   <p align="center">
-    Full Responsive IOS Calculator build with <img src="https://img.shields.io/badge/-HTML5-orange" alt="Logo">,  <img src="https://img.shields.io/badge/-CSS3-blue" alt="Logo"> using <img src="https://img.shields.io/badge/-SASS-ff69b4" alt="Logo"> and <img src="https://img.shields.io/badge/-JS-yellow" alt="Logo">
+    Full Responsive Memory Game build with <img src="https://img.shields.io/badge/-HTML5-orange" alt="Logo">,  <img src="https://img.shields.io/badge/-CSS3-blue" alt="Logo"> using <img src="https://img.shields.io/badge/-SASS-ff69b4" alt="Logo"> and <img src="https://img.shields.io/badge/-JS-yellow" alt="Logo">
     <br />
     <br />
-    <a href="https://github.com/amiguelmoreno/IOS-Calculator"><strong>Let's have a look! »</strong></a>
+    <a href="https://github.com/amiguelmoreno/Simon-Game"><strong>Let's have a look! »</strong></a>
     <br />
     <br />
   </p>
